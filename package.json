@@ -22,7 +22,7 @@
     "helmet": "^3.22.0",
     "mongoose": "^5.9.10",
     "nodemon": "^2.0.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
     "webpack-node-externals": "^1.7.2"
